@@ -9,6 +9,12 @@ Página desenvolvida para fins didáticos para o curso **Contribuindo em um Proj
 
 [![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
 
+
+## 📖 Documentação
+- [Documentação Git](https://git-scm.com/doc)
+- [Documentação GitHub](https://docs.github.c
+
+- 
 ```
 docs/
 ├── assets/
