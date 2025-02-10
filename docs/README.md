@@ -12,7 +12,7 @@ Página desenvolvida para fins didáticos para o curso **Contribuindo em um Proj
 
 ## 📖 Documentação
 - [Documentação Git](https://git-scm.com/doc)
-- [Documentação GitHub](https://docs.github.com/
+- [Documentação GitHub](https://docs.github.com/)
 
 - 
 ```
